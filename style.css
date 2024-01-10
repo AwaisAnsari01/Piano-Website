@@ -7,7 +7,7 @@ body{
     line-height: 30px;
     border: 4px double white;
     flex-wrap: wrap;
-    padding-bottom: 200px;
+    padding-bottom: 150px;
 }
 .light{
     font-weight: lighter;
