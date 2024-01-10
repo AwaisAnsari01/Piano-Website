@@ -1,0 +1,38 @@
+div{
+    margin-top: 150px;
+}
+body{
+    background-color: #000;
+    text-align: center;
+    line-height: 30px;
+    border: 4px double white;
+    flex-wrap: wrap;
+    padding-bottom: 200px;
+}
+.light{
+    font-weight: lighter;
+    line-height: 0%;
+    color: white;
+}
+#nav{
+    color: white;
+    width: 1180px;
+    padding: 15px;
+    margin: 0px auto 0px auto;
+    border-top: 2px solid white;
+    border-bottom: 1px solid white;
+    text-align: center;
+    word-spacing: 3em;
+
+
+}
+#red{
+    color: red;
+}
+#space{
+    line-height: 20px;
+    color: white;
+}
+img{
+    border: 1px solid white;
+}
